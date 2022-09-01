@@ -1,6 +1,6 @@
 package DataStructure.LinkedList;
 
-public class mySingleLinkedList<T> {
+public class mySingleLinkedList1<T> {
 
     public class Node<T> {
         T data;
@@ -37,7 +37,7 @@ public class mySingleLinkedList<T> {
     }
 
     public static void main(String[] args) {
-        mySingleLinkedList<Integer> singleLinkedList = new mySingleLinkedList<>();
+        mySingleLinkedList1<Integer> singleLinkedList = new mySingleLinkedList1<>();
         singleLinkedList.addNode(788);
         singleLinkedList.addNode(2);
         singleLinkedList.addNode(3);

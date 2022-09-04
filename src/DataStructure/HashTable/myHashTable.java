@@ -1,4 +1,4 @@
-package DataStructure;
+package DataStructure.HashTable;
 
 public class myHashTable {
     public static void main(String[] args) {

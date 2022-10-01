@@ -1,4 +1,4 @@
-package Algorithm.Basic;
+package Algorithm.Basic.IO_Arithmetic;
 
 import java.util.Scanner;
 

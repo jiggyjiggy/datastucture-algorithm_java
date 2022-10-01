@@ -1,4 +1,4 @@
-package Algorithm.Basic;
+package Algorithm.Basic.IO_Arithmetic;
 
 public class _10172 {
     public static void main(String[] args) {

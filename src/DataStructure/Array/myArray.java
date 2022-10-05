@@ -1,4 +1,4 @@
-package DataStructure;
+package DataStructure.Array;
 
 public class myArray {
     public static void main(String[] args) {

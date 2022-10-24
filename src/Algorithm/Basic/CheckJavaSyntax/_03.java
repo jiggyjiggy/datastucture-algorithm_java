@@ -39,7 +39,7 @@ public class _03 {
 
     private static void printSort(int[] arr) {
         for (int j : arr) {
-            System.out.println(j + "\t");
+            System.out.print(j + "\t");
         }
         System.out.println();
     }
